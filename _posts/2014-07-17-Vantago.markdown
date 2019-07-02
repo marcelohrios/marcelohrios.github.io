@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: Vantago.png
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: A Vantago é uma Startup que oferece benefícios a empresas por meio de seu aplicativo. Esse aplicativo foi feito em IONIC e o front-end feito por mim. Foi utilizado HTML5, CSS3, Angular.Js e Bootstrap. O download do aplicativo pode ser feito pela <a href="https://play.google.com/store/apps/details?id=com.ionicframework.cartacuringa389708&hl=pt_BR&showAllReviews=true"> Google Play</a> ou pela <a href="https://apps.apple.com/br/app/vantago/id1083895209">App Store</a>
+
+---

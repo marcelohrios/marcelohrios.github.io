@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 12
+date: 2014-07-07
+img: madwth-6.png
+alt: image-alt
+project-date: Lucas Caldeira
+client: Marcelo Rios
+category: Mad Pixel
+description: Alguém falou em Arte? Como a Mad Pixel trabalha em suas escolhas artísticas e como Madway to Heaven foi pensada artisticamente? Descobriremos isso nesse episódio!
+
+---

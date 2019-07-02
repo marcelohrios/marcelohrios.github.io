@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: pliks.png
+alt: image-alt
+project-date: 2017
+client: Pliks
+category: Web Development
+description: A Pliks foi criada em 2018 por um casal que tem o sonho de empreender. O site foi desenvolvido em WordPresse e é totalmente responsivo, foram utilizados HTML5, CSS3, JavaScript, Bootstrap, e PHP para desenvolver o site. A Pliks possui <a href="https://www.instagram.com/pliksoficial/?hl=pt-br">instagram</a> que hoje é gerenciado por mim e um <a href="https://pliks.com.br/">site</a> que já foi entregue a cliente.
+
+---

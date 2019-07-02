@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-11
+img: madwth-2.png
+alt: image-alt
+project-date: Lucas Caldeira
+client: Marcelo Rios
+category: Mad Pixel
+description: O segundo episódio da primeira temporada consiste no histórico e inicio do desenvolvimento do Madway to Heaven. Escolha dos personagens e a história. O que esse jogo significa pra Mad Pixel e as portas que ele pode abrir. Da concepção até a Steam.
+
+---

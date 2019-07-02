@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2014-07-10
+img: madwth-3.png
+alt: image-alt
+project-date: Lucas Caldeira
+client: Marcelo Rios
+category: Mad Pixel
+description: Nesse episódio será retratado o passado da Mad Pixel, teremos aqui aquele bom e velho Filler com bastante Flash Back(como em naruto). Sim continuaremos a trama principal de Madway to Heaven.
+
+---

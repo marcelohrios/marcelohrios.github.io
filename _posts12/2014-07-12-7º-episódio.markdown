@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-12
+img: madwth-1.png
+alt: image-alt
+project-date: Lucas Caldeira
+client: Marcelo Rios
+category: Mad Pixel
+description: Música para os meus ouvidos! Sim vamos falar de música e como foi todo o processo da sonoplastia da Mad Pixel em Madway to Heaven.
+
+---

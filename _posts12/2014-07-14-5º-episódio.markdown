@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: madwth-5.png
+alt: image-alt
+project-date: Lucas Caldeira
+client: Marcelo Rios
+category: Mad Pixel
+description: Marcelo Rios entrevista alguém em um episódio que será como um talkshow. Madway to Heaven constará sim e saiba que supresas interessantes sobre o game poderão ser exploradas nesse episódio.
+
+---
